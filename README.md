@@ -1,3 +1,7 @@
+# This codebase is out of date
+
+Please see https://github.com/jrmcornish/cif for code to reproduce our updated version of this paper, [Relaxing Bijectivity Constraints with Continuously Indexed Normalising Flows](https://arxiv.org/abs/1909.13833).
+
 # README
 
 Code release for [Localised Generative Flows](https://arxiv.org/abs/1909.13833) (LGFs).
